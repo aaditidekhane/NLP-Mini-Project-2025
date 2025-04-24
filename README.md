@@ -25,28 +25,30 @@ The objective of our automatic text summarization system for Covid-19 data and Q
 
 ## Web Interface
 
-A video containing all the functionalities and details of the project.
-
-https://drive.google.com/file/d/1b_pBAJw2F1gpND3aslK2ZRMY1UYxgppF/view?usp=sharing
 
 #### Dashboard
-![Alt Text](/images/Dashboard.png)
+![image](https://github.com/user-attachments/assets/f4251714-ae34-4ec5-abf3-29bd53a2a070)
+
 
 
 #### About the Project
-![Alt Text](/images/About_Project.png)
+![image](https://github.com/user-attachments/assets/386372a4-ae64-43c3-ac17-fd5fb9f7324f)
+
 
 
 #### Summarize
-![Alt Text](/images/Summarize.png)
+![image](https://github.com/user-attachments/assets/3d330057-9d62-4b28-91a0-92fd1f8e25f5)
+
 
 
 #### Question Answering
-![Alt Text](/images/Q&A.png)
+![image](https://github.com/user-attachments/assets/e803a450-92e6-455c-872a-ffe0ea4d5a58)
+
 
 
 #### Analyse
-![Alt Text](/images/Analyse.png)
+![image](https://github.com/user-attachments/assets/68bd4085-4cd6-4a4b-b30a-d0e8b05e34e1)
+
 
 
 ## IMPLEMENTATION AND BASIC METHODOLOGY
